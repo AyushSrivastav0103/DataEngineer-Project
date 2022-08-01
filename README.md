@@ -1,7 +1,7 @@
 # dataengineering-youtube-analysis-project
 Data Engineering YouTube Analysis Project by Ayush Srivastava
 
-In this project, i have taken Raw Youtube data from Keggle(which i have added in my Repo) 
+In this project, i have taken Raw Youtube data from Keggle 
 and the basic Data engineer job has been done on that Raw data which is mentioned below.
 
 Some cleaning and Data preprocessing was performed on that Raw Data, and hence a Data is fetched 
